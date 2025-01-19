@@ -1,0 +1,50 @@
+div{
+    display: flex;
+    width: 1024px;
+}
+.h{
+    display: flex;
+    justify-content: flex-end;
+}
+.blue{
+    color: #232fdd;
+}
+.sm{
+    width: 200px;
+}
+.bbl{
+    background-color: #232fdd;
+    color: white;
+    width: 525px;
+    height: 20px;
+}
+.btn1{
+    background-color: #232fdd;
+    color: #FFF;
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+}
+.btn2{
+    background-color: #FFF;
+    color: #232fdd;
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+}
+.im{
+    margin: -8px;
+    width: 256px;
+    height: 512px;
+    border-radius: 16px;
+}
+.mai{
+    display: flex;
+    flex-direction: column;
+}
+.nice{
+    font-size: large;
+}
+.lets{
+    font-size: large;
+}

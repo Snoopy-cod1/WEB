@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=LXGW+WenKai+Mono+TC&family=Neucha&family=Oswald:wght@200..700&family=Podkova:wght@400..800&family=Tektur:wght@400..900&family=Unbounded:wght@200..900&display=swap');
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #FAD074;
+}
+a{
+    font-family: "Neucha";
+    font-size: 30px;
+    color: #FFF;
+    text-decoration: none;
+}

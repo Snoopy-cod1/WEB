@@ -1,0 +1,93 @@
+
+header{
+    background-color: #295135;
+    text-align: center;
+    align-items: center;
+    width: 1024px;
+    display: flex;
+    margin: 16px auto;
+    padding: 16px;
+    border-radius: 16px;
+    justify-content: center;
+    box-sizing:border-box;
+}
+footer{
+    padding: 1em;
+    background-color: #295135;
+    color: #DACDDF;
+    text-align: center;
+    width: 1024px;
+    display: flex;
+    margin: 16px auto;
+    padding: 16px;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background-color: #0E402D;
+    color: #FFFFFF;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-size: 64px;
+    background-attachment: fixed;
+    align-items: center;
+    flex-wrap: wrap;
+}
+main {
+    text-align: center;
+    background-color: #295135;
+    color: #FFFFFF;
+}
+* {
+    box-sizing: border-box;
+}
+.city{
+    width: 32%;
+    padding: 16px;
+    margin: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    background-color: #FFF;
+    color: #12afd6;
+}
+.icon{
+    width: 100px;
+    height: 100px;
+    background-image: url(weather_icons.png);
+    background-size: 500px;
+}
+.w1{
+    background-position: -12px -5px;
+}
+.w2{
+    background-position: -12px -115px;
+}
+.w3{
+    background-position: -200px -110px;
+}
+.w4{
+    background-position: -100px -325px;
+}
+.w5{
+    background-position: -290px -435px;
+}
+.w6{
+    background-position: -385px -5px;
+}
+.logo{
+    width: 64px;
+    height: 64px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1152px;
+    margin: auto;
+    justify-content: center;
+}
+
